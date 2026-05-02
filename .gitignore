@@ -1,0 +1,16 @@
+# Verilator clone (upstream — fetched by install script, not part of this repo)
+/verilator-src/
+
+# Local install prefix produced by install-verilator-macos.sh
+/install/
+
+# Verilator build output (one per example/testbench dir)
+obj_dir/
+
+# C/C++ build leftovers
+*.o
+*.d
+*.a
+
+# macOS
+.DS_Store
