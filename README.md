@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Verilator Mac logo" width="180">
+</p>
+
 # Verilator on macOS
 
 Scripts to build and install [Verilator](https://verilator.org) (open-source
